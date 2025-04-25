@@ -1,4 +1,5 @@
-import java.time.DayOfWeek;
+package HackerRank;
+
 import java.time.LocalDate;
 
 public class JavaDateAndTime {

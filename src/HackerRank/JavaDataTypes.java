@@ -1,4 +1,5 @@
-import java.math.BigInteger;
+package HackerRank;
+
 import java.util.*;
 
 public class JavaDataTypes {
